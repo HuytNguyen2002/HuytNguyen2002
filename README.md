@@ -8,5 +8,5 @@
 - 📫 How to reach me: nguyenhuyhung192002@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Just try my best on everything I involve in
-
+- [LinkedIn-@Huyt](https://www.linkedin.com/in/h%C3%B9ng-nguy%E1%BB%85n-huy-8888521b9/)
 <img src="https://github-readme-stats.vercel.app/api?username=HUYHung192002&&show_icons=true&title%20color=ffffff&icon%20color=bb2acf@text%20color=daf7dc&bg%20color=151515">
