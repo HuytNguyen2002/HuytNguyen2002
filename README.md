@@ -9,7 +9,7 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: Just try my best on everything I involve in
 
-<img src="https://github-readme-stats.vercel.app/api?username=HUYHung192002&&show_icons=true&title%20color=ffffff&icon%20color=bb2acf@text%20color=daf7dc&bg%20color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=HuytNguyen2002&&show_icons=true&title%20color=ffffff&icon%20color=bb2acf@text%20color=daf7dc&bg%20color=151515">
 
 <img src="https://i.pinimg.com/564x/59/66/eb/5966eb210f01d71bc7e576230d53b86e.jpg">
 
