@@ -1,4 +1,4 @@
-### Hello, I'm Hung 👋
+### Hello there, I'm Hung 👋
 
 - 🔭 I’m currently a student of Ha Noi Unviersity of Science and Technology
 - 🌱 I’m currently learning AI, Automation Engineering
